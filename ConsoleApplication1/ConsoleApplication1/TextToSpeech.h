@@ -7,3 +7,7 @@
 using namespace std;
 
 void TTS(string SentMessage);
+void Queen();
+void UpSet();
+void AHSSong();
+string trim(string);

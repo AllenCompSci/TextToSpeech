@@ -33,6 +33,9 @@
     <ClInclude Include="TextToSpeech.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SongDB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

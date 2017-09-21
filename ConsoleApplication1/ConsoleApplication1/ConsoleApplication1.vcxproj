@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="language.h" />
+    <ClInclude Include="SongDB.h" />
     <ClInclude Include="speak.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
